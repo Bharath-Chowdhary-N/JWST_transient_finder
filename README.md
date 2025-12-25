@@ -1,4 +1,4 @@
-##How to create PSF for F200W
+## How to create PSF for F200W
 ```
 from matplotlib import pyplot as plt
 import stpsf
